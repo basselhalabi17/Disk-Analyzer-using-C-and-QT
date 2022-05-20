@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Open.bmp</file>
+        <file>F.png</file>
+    </qresource>
+</RCC>
